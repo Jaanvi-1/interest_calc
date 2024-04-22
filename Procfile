@@ -1,0 +1,1 @@
+web: gunicorn 'Simple_Interest_Calculatoe.wsgi'
